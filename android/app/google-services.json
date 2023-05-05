@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1012376171185",
+    "project_id": "swax-26f73",
+    "storage_bucket": "swax-26f73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012376171185:android:0446b1dcd9598e9fc2e890",
+        "android_client_info": {
+          "package_name": "com.gyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012376171185-bvslvgc93ehcuj1ovhravedmkc8e8oit.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Zkv5s8BvNChOSHrOUMZpEIEZUK5p2Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012376171185-bvslvgc93ehcuj1ovhravedmkc8e8oit.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

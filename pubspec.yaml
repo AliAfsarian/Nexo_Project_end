@@ -1,0 +1,57 @@
+name: nexo
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  http: ^0.13.5
+  flutter_spinkit: ^5.1.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+  - images/
+
+  fonts:
+  - family: Spartan MB
+    fonts:
+    - asset: fonts/SpartanMB-Black.otf
+      weight: 900
+  - family: Sofia
+    fonts:
+      - asset: fonts/SofiaSansExtraCondensed-VariableFont_wght.ttf
+        weight: 900
+  - family: EduNSWACTFoundation
+    fonts:
+      - asset: fonts/EduNSWACTFoundation-Regular.ttf
+        weight: 900
+  - family: JosefinSans
+    fonts:
+      - asset: fonts/JosefinSans-VariableFont_wght.ttf
+        weight: 900
+  - family: Amaranth
+    fonts:
+      - asset: fonts/Amaranth-Regular.ttf
+        weight: 900
+  - family: RobotoCon
+    fonts:
+      - asset: fonts/RobotoCondensed-Regular.ttf
+        weight: 900
+  - family: Ubuntu
+    fonts:
+      - asset: fonts/Ubuntu-Regular.ttf
+        weight: 900
